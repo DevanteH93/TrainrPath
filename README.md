@@ -32,7 +32,7 @@ TrainrPath is a fitness-oriented web application focused on structuring and orga
 The project follows a scalable structure designed to support future growth:
 src/
 ├── components/ # Reusable UI components
-├── pages/ # Page-level components / routes
+├── app/ # Page-level components / routes
 ├── styles/ # Global and component-specific styles
 
 This structure improves readability, maintainability, and extensibility.
