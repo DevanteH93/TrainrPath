@@ -31,7 +31,7 @@ export default function Hero() {
             <small>* The first and second set should be at 75% and
                 85% </small>
                 <h3>The Training Plan</h3>
-                <p>This training plan uses a structure known as the <b>Bro 
+                <p>This training plan uses a structure known as the <b>Trainr 
                     Split</b>, and follows this rotation ⬇️</p>
                     <p><b><i>Push &rarr; Pull &rarr; Legs &rarr; Repeat</i>
                     </b></p>
